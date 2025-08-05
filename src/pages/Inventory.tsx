@@ -149,7 +149,7 @@ const Inventory: React.FC = () => {
       initial={{ opacity: 0, y: 10 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.3 }}
-      className={`border-b border-gray-200 hover:bg-gray-50 ${isLowStock ? 'bg-red-50' : ''}`}
+      className={`border-b border-gray-200 hover:bg-gray-50 ${isLowStock ? 'bg-white' : ''}`}
     >
       <td className="py-4 px-6">
         <div className="flex items-center space-x-3">

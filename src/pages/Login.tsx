@@ -565,9 +565,9 @@ const Login: React.FC = () => {
               Tài khoản demo có sẵn:
             </h3>
             <div className="text-xs text-blue-800 space-y-1">
-              <p>• <strong>Manager:</strong> manager / 123</p>
-              <p>• <strong>Pharmacist:</strong> pharmacist / 123</p>
-              <p>• <strong>Customer:</strong> customer1 / 123</p>
+              <p>• <strong>Manager:</strong> managerPhat / Phat123</p>
+              <p>• <strong>Pharmacist:</strong> pharmacistPhat / pharmacistPhat</p>
+              <p>• <strong>Customer:</strong> phatdinh17 / phatdinh17</p>
             </div>
           </div>
         </motion.div>
